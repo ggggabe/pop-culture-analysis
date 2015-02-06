@@ -1,0 +1,115 @@
+\documentclass[twoside]{article}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage[lined,boxed,commentsnumbered]{algorithm2e}
+
+
+% ------
+% Fonts and typesetting settings
+\usepackage[sc]{mathpazo}
+\usepackage[T1]{fontenc}
+\linespread{1.05} % Palatino needs more space between lines
+\usepackage{microtype}
+
+
+% ------
+% Page layout
+\usepackage[hmarginratio=1:1,top=32mm,columnsep=20pt]{geometry}
+\usepackage[font=it]{caption}
+\usepackage{paralist}
+\usepackage{multicol}
+
+% ------
+% Lettrines
+\usepackage{lettrine}
+
+
+% ------
+% Abstract
+\usepackage{abstract}
+	\renewcommand{\abstractnamefont}{\normalfont\bfseries}
+	\renewcommand{\abstracttextfont}{\normalfont\small\itshape}
+
+
+% ------
+% Titling (section/subsection)
+\usepackage{titlesec}
+\renewcommand\thesection{\Roman{section}}
+\titleformat{\section}[block]{\large\scshape\centering}{\thesection.}{1em}{}
+
+
+% ------
+% Header/footer
+\usepackage{fancyhdr}
+	\pagestyle{fancy}
+	\fancyhead{}
+	\fancyfoot{}
+%	\fancyhead[C]{Journal paper template $\bullet$ April 2012 $\bullet$ Vol. XXI, No. 1}
+%	\fancyfoot[RO,LE]{\thepage}
+
+
+% ------
+% Clickable URLs (optional)
+\usepackage{hyperref}
+
+% ------
+% Maketitle metadata
+\title{\vspace{-15mm}%
+	\fontsize{24pt}{10pt}\selectfont
+	\textbf{Measuring the Influence of War on 20th Century Literature}
+	}
+	
+\author{
+    Andre Marquez, Mark O'Shea\\
+    Rutgers University\\
+    agm86@rutgers.edu
+}
+\date{}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\maketitle
+\thispagestyle{fancy}
+
+\begin{abstract}
+\noindent 
+We are attempting to present an emiprical and analytic approach to the measurement of events on pop culture in a given restricted domain of time. In this paper we will discuss our approach applied to the measurement of the influence of war on popular literature in 20th century America. We will first discuss data collection: methods, standards, and cleaning. Then we will discuss the weighted and normalized popular elements approach for anlayzing this data. Final we discuss our conclusions about the approach, and results of the project.
+\end{abstract}
+\smallskip
+	
+
+\begin{multicols}{2}
+\section{Introduction}
+\lettrine[nindent=0em,lines=3]{W} ithout a doubt, pop culture has been heavily shaped and molded by current events. There are movies like \textit{Saving Private Ryan}, songs like \textit{We Didn't Start the Fire}, and books like \textit{To Kill a Mockingbird} that have roots in events that were happening around and before the time. 
+
+We want to investigate this problem and develop an approach that measures the extent to which pop culture has been influenced by current events --- World War II is obviously influential, but how much so? Is it more influential than World War I, or the Great Depression?  The original goal was to be able to develop this measurement for any type of historical event over any period of time, however that task was too big to be within the scope of what we can accomplish over the course of this class, so we narrowed our problem to measuring the influence of wars on literature. In order to obtain this measurement we break the problem up into three discrete steps: data preprocessing, analysis of the data, and interpretation of the analysis.
+
+\section{Gathering the Data}
+One of the biggest hurdles in this project was finding appropriate datasets. While there are many different datasets on movies, books, and music out there, it was very difficult to find large enough datasets with parameters that allow us to perform searches on what topic some given media was on. For example, while \textit{Saving Private Ryan} could be categorized as a war movie by its title alone, \textit{Wings} gives no hint that it's a war movie from the title. To be explicit, our data needed to have the following qualities
+\begin{compactitem}
+\item Large size
+\item Publication date
+\item Topic information
+\end{compactitem}
+In sapien ante, ultricies quis pellentesque ut, fringilla id sem. Proin justo libero, dapibus consequat auctor at, euismod et erat. Sed ut ipsum erat, iaculis vehicula lorem. Cras non dolor id libero blandit ornare. Pellentesque luctus fermentum eros ut posuere. Suspendisse rutrum suscipit massa sit amet molestie. Donec suscipit lacinia diam, eu posuere libero rutrum sed. Nam blandit lorem sit amet dolor vestibulum in lacinia purus varius. Ut tortor massa, rhoncus ut auctor eget, vestibulum ut justo.
+
+\section{Another section}
+Quisque vel arcu eget sapien euismod tristique rhoncus eu mauris. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras ligula lacus, dictum id scelerisque nec, venenatis vitae magna. Cras tristique porta elit, non tincidunt ligula placerat lobortis. Pellentesque quam enim, mattis in cursus eu, blandit et massa. Mauris aliquet turpis blandit elit vehicula sed posuere lectus facilisis. Donec blandit adipiscing tortor, quis lobortis purus eleifend vel. Nam a tellus at magna scelerisque blandit vel nec erat.
+
+Quisque vel arcu eget sapien euismod tristique rhoncus eu mauris. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras ligula lacus, dictum id scelerisque nec, venenatis vitae magna. Cras tristique porta elit, non tincidunt ligula placerat lobortis. Pellentesque quam enim, mattis in cursus eu, blandit et massa. Mauris aliquet turpis blandit elit vehicula sed posuere lectus facilisis. Donec blandit adipiscing tortor, quis lobortis purus eleifend vel. Nam a tellus at magna scelerisque blandit vel nec erat.
+
+Quisque vel arcu eget sapien euismod tristique rhoncus eu mauris. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras ligula lacus, dictum id scelerisque nec, venenatis vitae magna. Cras tristique porta elit, non tincidunt ligula placerat lobortis. Pellentesque quam enim, mattis in cursus eu, blandit et massa. Mauris aliquet turpis blandit elit vehicula sed posuere lectus facilisis. Donec blandit adipiscing tortor, quis lobortis purus eleifend vel. Nam a tellus at magna scelerisque blandit vel nec erat.
+
+Quisque vel arcu eget sapien euismod tristique rhoncus eu mauris. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras ligula lacus, dictum id scelerisque nec, venenatis vitae magna. Cras tristique porta elit, non tincidunt ligula placerat lobortis. Pellentesque quam enim, mattis in cursus eu, blandit et massa. Mauris aliquet turpis blandit elit vehicula sed posuere lectus facilisis. Donec blandit adipiscing tortor, quis lobortis purus eleifend vel. Nam a tellus at magna scelerisque blandit vel nec erat.
+
+\section{One more section}
+Vestibulum tincidunt accumsan nisl dapibus rhoncus. Phasellus pulvinar suscipit magna ut consectetur. Curabitur ipsum dui, consectetur id dignissim nec, sollicitudin id lacus. Aenean volutpat, neque sit amet luctus porta, neque dui pretium ipsum, non ultricies justo nibh id justo. Cras in magna dui, in faucibus leo. Nulla nec magna sit amet velit hendrerit semper in in sapien. Nam ullamcorper risus at purus luctus semper nec adipiscing sapien.
+
+\end{multicols}
+
+\end{document}

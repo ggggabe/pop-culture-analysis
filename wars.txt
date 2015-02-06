@@ -1,0 +1,26 @@
+World War I: 1914 1918
+Armenian Genocide: 1915 1918
+Russian Revolution: 1917 1917
+Russian Civil War: 1918 1921
+Irish War of Independence: 1919 1921
+Chinese Civil War: 1927 1937
+Holocaust: 1933 1935
+Second Italo-Abyssinian War: 1935 1936
+Spanish Civil War: 1936 1939
+World War II: 1939 1945
+Cold War: 1945 1990
+Chinese Civil War: 1946 1949
+First Indochina War: 1946 1954
+Israel War of Independence: 1948 1948
+Korean War: 1950 1953
+French-Algerian War: 1954 1962
+First Sudanese Civil War: 1955 1972
+Suez Crisis: 1956 1956
+Cuban Revolution: 1959 1959
+Vietnam War: 1959 1973
+Six-Day War: 1967 1967
+Soviet-Afghan War: 1979 1989
+Iran-Iraq War: 1980 1988
+Persian Gulf War: 1990 1991
+Third Balkan War: 1991 1995
+Rwandan Genocide: 1994 1994

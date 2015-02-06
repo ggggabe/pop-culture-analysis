@@ -1,0 +1,1901 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  19 DEC 2013 01:25
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**acm_proc_article-sp.cls
+(./acm_proc_article-sp.cls
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, german-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabic, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnish, french, friulan, galician, german, ngerman, swissgerman, monogreek, greek, hungarian, icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, oriya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, polish, portuguese, romanian, romansh, russian, sanskrit, serbian, serbianc, slovak, slovenian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded.
+
+./acm_proc_article-sp.cls:48: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 \usepackage{
+                 epsfig}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+./acm_proc_article-sp.cls:49: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \usepackage{
+                 amssymb}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+./acm_proc_article-sp.cls:50: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \usepackage{
+                 amsmath}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+./acm_proc_article-sp.cls:51: LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \usepackage{
+                 amsfonts}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+Document Class 'acm_proc_article-sp' <22nd. April '09>. Modified by G.K.M. Tobin
+Based in part upon document Style `acmconf' <22 May 89>. Hacked 4/91 by
+shivers@cs.cmu.edu, 4/93 by theobald@cs.mcgill.ca
+Excerpts were taken from (Journal Style) 'esub2acm.cls'.
+****** Bugs/comments/suggestions to Gerry Murray -- murray@hq.acm.org ******
+./acm_proc_article-sp.cls:136: You can't use `\spacefactor' in vertical mode.
+\@->\spacefactor 
+                 \@m 
+l.136 \@
+        ifundefined{footheight}{\newdimen\footheight}{}% this is for LaTeX2e
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./acm_proc_article-sp.cls:136: Missing $ inserted.
+<inserted text> 
+                $
+l.136 \@
+        ifundefined{footheight}{\newdimen\footheight}{}% this is for LaTeX2e
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+./acm_proc_article-sp.cls:136: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136 \@
+        ifundefined{footheight}{\newdimen\footheight}{}% this is for LaTeX2e
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 136.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 136.
+\footheight=\dimen102
+./acm_proc_article-sp.cls:138: Missing $ inserted.
+<inserted text> 
+                $
+l.138 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no è in font cmex10!
+
+Overfull \hbox (123.92828pt too wide) in paragraph at lines 136--138
+[]$\OML/cmm/m/it/10 ifundefined[][][]$ 
+ []
+
+./acm_proc_article-sp.cls:167: You can't use `\spacefactor' in vertical mode.
+\@->\spacefactor 
+                 \@m 
+l.167 \@
+        ifundefined{@maxsep}{\newdimen\@maxsep}{}% this is for LaTeX2e
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+./acm_proc_article-sp.cls:167: Missing $ inserted.
+<inserted text> 
+                $
+l.167 \@
+        ifundefined{@maxsep}{\newdimen\@maxsep}{}% this is for LaTeX2e
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+./acm_proc_article-sp.cls:167: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.167 \@
+        ifundefined{@maxsep}{\newdimen\@maxsep}{}% this is for LaTeX2e
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+\@=\dimen103
+./acm_proc_article-sp.cls:168: Missing number, treated as zero.
+<to be read again> 
+                   m
+l.168 \@m
+         axsep 18pt                           % The maximum of \floatsep,
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:168: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   m
+l.168 \@ma
+          xsep 18pt                           % The maximum of \floatsep,
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./acm_proc_article-sp.cls:175: Missing number, treated as zero.
+<to be read again> 
+                   i
+l.175 \@i
+         fundefined{@dblmaxsep}{\newdimen\@dblmaxsep}{}% this is for LaTeX2e
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:175: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   i
+l.175 \@if
+          undefined{@dblmaxsep}{\newdimen\@dblmaxsep}{}% this is for LaTeX2e
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+\@=\dimen104
+./acm_proc_article-sp.cls:176: Missing number, treated as zero.
+<to be read again> 
+                   d
+l.176 \@d
+         blmaxsep 18pt                        % The maximum of \dblfloatsep and
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:176: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   d
+l.176 \@db
+          lmaxsep 18pt                        % The maximum of \dblfloatsep and
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./acm_proc_article-sp.cls:178: Missing number, treated as zero.
+<to be read again> 
+                   f
+l.178 \@f
+         ptop 0pt plus 1fil    % Stretch at top of float page/column. (Must be
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:178: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   f
+l.178 \@f
+         ptop 0pt plus 1fil    % Stretch at top of float page/column. (Must be
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./acm_proc_article-sp.cls:180: Missing number, treated as zero.
+<to be read again> 
+                   f
+l.180 \@f
+         psep 8pt plus 2fil    % Space between floats on float page/column.
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:180: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   f
+l.180 \@f
+         psep 8pt plus 2fil    % Space between floats on float page/column.
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./acm_proc_article-sp.cls:181: Missing number, treated as zero.
+<to be read again> 
+                   f
+l.181 \@f
+         pbot 0pt plus 1fil    % Stretch at bottom of float page/column. (Mu...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:181: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   f
+l.181 \@f
+         pbot 0pt plus 1fil    % Stretch at bottom of float page/column. (Mu...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./acm_proc_article-sp.cls:183: Missing number, treated as zero.
+<to be read again> 
+                   d
+l.183 \@d
+         blfptop 0pt plus 1fil % Stretch at top of float page. (Must be 0pt ...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:183: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   d
+l.183 \@db
+          lfptop 0pt plus 1fil % Stretch at top of float page. (Must be 0pt ...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./acm_proc_article-sp.cls:184: Missing number, treated as zero.
+<to be read again> 
+                   d
+l.184 \@d
+         blfpsep 8pt plus 2fil % Space between floats on float page.
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:184: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   d
+l.184 \@db
+          lfpsep 8pt plus 2fil % Space between floats on float page.
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./acm_proc_article-sp.cls:185: Missing number, treated as zero.
+<to be read again> 
+                   d
+l.185 \@d
+         blfpbot 0pt plus 1fil % Stretch at bottom of float page. (Must be
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:185: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   d
+l.185 \@db
+          lfpbot 0pt plus 1fil % Stretch at bottom of float page. (Must be
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./acm_proc_article-sp.cls:189: Missing $ inserted.
+<inserted text> 
+                $
+l.189 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no è in font cmex10!
+
+Overfull \hbox (912.84927pt too wide) in paragraph at lines 167--189
+[]$\OML/cmm/m/it/10 ifundefined[][][]maxsep\OT1/cmr/m/n/10 18\OML/cmm/m/it/10 ptifundefined[][][]dblmaxsep\OT1/cmr/m/n/10 18\OML/cmm/m/it/10 ptfptop\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ptplus\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 filfpsep\OT1/cmr/m/n/10 8\OML/cmm/m/it/10 ptplus\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 filfpbot\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ptplus\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 fildblfptop\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ptplus\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 fildblfpsep\OT1/cmr/m/n/10 8\OML/cmm/m/it/10 ptplus\OT1/cmr/m/n/10 2\OML/cmm/m/it/10 fildblfpbot\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ptplus\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 fil$ 
+ []
+
+./acm_proc_article-sp.cls:200: Missing number, treated as zero.
+<to be read again> 
+                   l
+l.200 \@l
+         owpenalty   51       % Produced by \nopagebreak[1] or \nolinebreak[1]
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:200: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   l
+l.200 \@l
+         owpenalty   51       % Produced by \nopagebreak[1] or \nolinebreak[1]
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+./acm_proc_article-sp.cls:200: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.200 \@l
+         owpenalty   51       % Produced by \nopagebreak[1] or \nolinebreak[1]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+./acm_proc_article-sp.cls:201: Missing number, treated as zero.
+<to be read again> 
+                   m
+l.201 \@m
+         edpenalty  151       % Produced by \nopagebreak[2] or \nolinebreak[2]
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:201: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   m
+l.201 \@me
+          dpenalty  151       % Produced by \nopagebreak[2] or \nolinebreak[2]
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+./acm_proc_article-sp.cls:202: Missing number, treated as zero.
+<to be read again> 
+                   h
+l.202 \@h
+         ighpenalty 301       % Produced by \nopagebreak[3] or \nolinebreak[3]
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:202: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   h
+l.202 \@h
+         ighpenalty 301       % Produced by \nopagebreak[3] or \nolinebreak[3]
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+./acm_proc_article-sp.cls:204: Missing number, treated as zero.
+<to be read again> 
+                   b
+l.204 \@b
+         eginparpenalty -\@lowpenalty % Before a list or paragraph environment.
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:204: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   b
+l.204 \@be
+          ginparpenalty -\@lowpenalty % Before a list or paragraph environment.
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+./acm_proc_article-sp.cls:204: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.204 \@be
+          ginparpenalty -\@lowpenalty % Before a list or paragraph environment.
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no - in font nullfont!
+./acm_proc_article-sp.cls:204: Missing number, treated as zero.
+<to be read again> 
+                   l
+l.204 \@beginparpenalty -\@l
+                            owpenalty % Before a list or paragraph environment.
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:204: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   l
+l.204 \@beginparpenalty -\@l
+                            owpenalty % Before a list or paragraph environment.
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+./acm_proc_article-sp.cls:205: Missing number, treated as zero.
+<to be read again> 
+                   e
+l.205 \@e
+         ndparpenalty   -\@lowpenalty % After a list or paragraph environment.
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:205: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   e
+l.205 \@en
+          dparpenalty   -\@lowpenalty % After a list or paragraph environment.
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no - in font nullfont!
+./acm_proc_article-sp.cls:205: Missing number, treated as zero.
+<to be read again> 
+                   l
+l.205 \@endparpenalty   -\@l
+                            owpenalty % After a list or paragraph environment.
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:205: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   l
+l.205 \@endparpenalty   -\@l
+                            owpenalty % After a list or paragraph environment.
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+./acm_proc_article-sp.cls:206: Missing number, treated as zero.
+<to be read again> 
+                   i
+l.206 \@i
+         tempenalty     -\@lowpenalty % Between list items.
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:206: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   i
+l.206 \@it
+          empenalty     -\@lowpenalty % Between list items.
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no - in font nullfont!
+./acm_proc_article-sp.cls:206: Missing number, treated as zero.
+<to be read again> 
+                   l
+l.206 \@itempenalty     -\@l
+                            owpenalty % Between list items.
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:206: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   l
+l.206 \@itempenalty     -\@l
+                            owpenalty % Between list items.
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no y in font nullfont!
+./acm_proc_article-sp.cls:209: Missing number, treated as zero.
+<to be read again> 
+                   n
+l.209 \@n
+         amedef{ds@10pt}{\ClassError{The `10pt' option is not allowed in the...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:209: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   n
+l.209 \@na
+          medef{ds@10pt}{\ClassError{The `10pt' option is not allowed in the...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+./acm_proc_article-sp.cls:209: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.209 \@na
+          medef{ds@10pt}{\ClassError{The `10pt' option is not allowed in the...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+
+./acm_proc_article-sp.cls:210: Class The `10pt' option is not allowed in the `acmconf' document style. Error: \@.
+
+See the The `10pt' option is not allowed in the `acmconf' document style. class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210   document style.}\@e
+                           ha}
+e
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+./acm_proc_article-sp.cls:212: Missing number, treated as zero.
+<to be read again> 
+                   n
+l.212 \@n
+         amedef{ds@11pt}{\ClassError{The `11pt' option is not allowed in the...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:212: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   n
+l.212 \@na
+          medef{ds@11pt}{\ClassError{The `11pt' option is not allowed in the...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+
+./acm_proc_article-sp.cls:213: Class The `11pt' option is not allowed in the `acmconf' document style. Error: \@.
+
+See the The `11pt' option is not allowed in the `acmconf' document style. class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.213   document style.}\@e
+                           ha}
+e
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+./acm_proc_article-sp.cls:215: Missing number, treated as zero.
+<to be read again> 
+                   n
+l.215 \@n
+         amedef{ds@12pt}{\ClassError{The `12pt' option is not allowed in the...
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:215: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   n
+l.215 \@na
+          medef{ds@12pt}{\ClassError{The `12pt' option is not allowed in the...
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+
+./acm_proc_article-sp.cls:216: Class The `12pt' option is not allowed in the `acmconf' document style. Error: \@.
+
+See the The `12pt' option is not allowed in the `acmconf' document style. class documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.216   document style.}\@e
+                           ha}
+e
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+./acm_proc_article-sp.cls:218: Missing number, treated as zero.
+<to be read again> 
+                   o
+l.218 \@o
+         ptions
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:218: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   o
+l.218 \@o
+         ptions
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+./acm_proc_article-sp.cls:218: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.218 \@o
+         ptions
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+./acm_proc_article-sp.cls:226: Undefined control sequence.
+l.226 \abovedisplayshortskip  \z
+                                @ plus3pt%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./acm_proc_article-sp.cls:226: Missing number, treated as zero.
+<to be read again> 
+                   @
+l.226 \abovedisplayshortskip  \z@
+                                  plus3pt%
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:226: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   @
+l.226 \abovedisplayshortskip  \z@
+                                  plus3pt%
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+./acm_proc_article-sp.cls:226: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.226 \abovedisplayshortskip  \z@
+                                  plus3pt%
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no I in font nullfont!
+\aucount=\count79
+\originalaucount=\count80
+\auwidth=\dimen105
+\auskip=\dimen106
+\auskipcount=\count81
+\auskip=\dimen107
+\allauboxes=\dimen108
+\addauthors=\toks14
+\addauflag=\count82
+\subtitletext=\toks15
+\savesection=\count83
+\sectioncntr=\count84
+
+./acm_proc_article-sp.cls:373: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.373 \let\@li
+              sti\@listI
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+./acm_proc_article-sp.cls:445: Use of \@ doesn't match its definition.
+l.445 \skip\@m
+              pfootins =\skip\footins
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+./acm_proc_article-sp.cls:445: Missing number, treated as zero.
+<to be read again> 
+                   p
+l.445 \skip\@mp
+               footins =\skip\footins
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:445: Missing number, treated as zero.
+<to be read again> 
+                   p
+l.445 \skip\@mp
+               footins =\skip\footins
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:445: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   p
+l.445 \skip\@mpf
+                ootins =\skip\footins
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+./acm_proc_article-sp.cls:445: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.445 \skip\@mpf
+                ootins =\skip\footins
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no = in font nullfont!
+./acm_proc_article-sp.cls:446: Missing number, treated as zero.
+<to be read again> 
+                   \par 
+l.446 
+      
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./acm_proc_article-sp.cls:446: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \par 
+l.446 
+      
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+./acm_proc_article-sp.cls:516: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.516  \let\l@t
+               able\l@figure
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+./acm_proc_article-sp.cls:553: Use of \@ doesn't match its definition.
+l.553 \@i
+         fundefined{figure}{\newcounter {figure}} % this is for LaTeX2e
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+./acm_proc_article-sp.cls:553: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.553 \@if
+          undefined{figure}{\newcounter {figure}} % this is for LaTeX2e
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+\c@figure=\count85
+./acm_proc_article-sp.cls:562: Use of \@ doesn't match its definition.
+l.562 \@n
+         amedef{figure*}{\@dblfloat{figure}}
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+./acm_proc_article-sp.cls:562: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.562 \@na
+          medef{figure*}{\@dblfloat{figure}}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no * in font nullfont!
+./acm_proc_article-sp.cls:562: Use of \@ doesn't match its definition.
+l.562 \@namedef{figure*}{\@d
+                            blfloat{figure}}
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+./acm_proc_article-sp.cls:563: Use of \@ doesn't match its definition.
+l.563 \@n
+         amedef{endfigure*}{\end@dblfloat}
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no * in font nullfont!
+
+./acm_proc_article-sp.cls:563: LaTeX Error: \begin{document} ended by \end{@}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.563 \@namedef{endfigure*}{\end@
+                                 dblfloat}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./acm_proc_article-sp.cls:563: Missing } inserted.
+<inserted text> 
+                }
+l.563 \@namedef{endfigure*}{\end@
+                                 dblfloat}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./acm_proc_article-sp.cls:563: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.563 \@namedef{endfigure*}{\end@
+                                 dblfloat}
+Things are pretty mixed up, but I think the worst is over.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+./acm_proc_article-sp.cls:563: Too many }'s.
+l.563 \@namedef{endfigure*}{\end@dblfloat}
+                                          
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+./acm_proc_article-sp.cls:565: Use of \@ doesn't match its definition.
+l.565 \@i
+         fundefined{table}{\newcounter {table}} % this is for LaTeX2e
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+./acm_proc_article-sp.cls:565: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.565 \@if
+          undefined{table}{\newcounter {table}} % this is for LaTeX2e
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+\c@table=\count86
+./acm_proc_article-sp.cls:574: Use of \@ doesn't match its definition.
+l.574 \@n
+         amedef{table*}{\@dblfloat{table}}
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+./acm_proc_article-sp.cls:574: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.574 \@na
+          medef{table*}{\@dblfloat{table}}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no * in font nullfont!
+./acm_proc_article-sp.cls:574: Use of \@ doesn't match its definition.
+l.574 \@namedef{table*}{\@d
+                           blfloat{table}}
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+./acm_proc_article-sp.cls:575: Use of \@ doesn't match its definition.
+l.575 \@n
+         amedef{endtable*}{\end@dblfloat}
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no * in font nullfont!
+
+./acm_proc_article-sp.cls:575: LaTeX Error: \begin{document} ended by \end{@}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.575 \@namedef{endtable*}{\end@
+                                dblfloat}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./acm_proc_article-sp.cls:575: Missing } inserted.
+<inserted text> 
+                }
+l.575 \@namedef{endtable*}{\end@
+                                dblfloat}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./acm_proc_article-sp.cls:575: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.575 \@namedef{endtable*}{\end@
+                                dblfloat}
+Things are pretty mixed up, but I think the worst is over.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+./acm_proc_article-sp.cls:575: Too many }'s.
+l.575 \@namedef{endtable*}{\end@dblfloat}
+                                         
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+\titleboxnotes=\toks16
+\titleboxnoteflag=\count87
+
+./acm_proc_article-sp.cls:595: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.595 \newif\if@
+                ll % to record which version of LaTeX is in use
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+./acm_proc_article-sp.cls:599: Use of \@ doesn't match its definition.
+l.599 \global\@l
+                ltrue
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+./acm_proc_article-sp.cls:599: You can't use a prefix with `the letter l'.
+<to be read again> 
+                   l
+l.599 \global\@ll
+                 true
+I'll pretend you didn't say \long or \outer or \global or \protected.
+
+
+./acm_proc_article-sp.cls:599: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.599 \global\@ll
+                 true
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no l in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+
+./acm_proc_article-sp.cls:608: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.608   \let\dooptions\@o
+                         ptions
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
+
+./acm_proc_article-sp.cls:617: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.617 \newif\if@
+                faircopy
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no y in font nullfont!
+./acm_proc_article-sp.cls:618: Use of \@ doesn't match its definition.
+l.618 \@f
+         aircopyfalse
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+./acm_proc_article-sp.cls:623: Use of \@ doesn't match its definition.
+l.623 \@t
+         wosidetrue
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+./acm_proc_article-sp.cls:623: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.623 \@tw
+          osidetrue
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no w in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+./acm_proc_article-sp.cls:624: Use of \@ doesn't match its definition.
+l.624 \@m
+         parswitchtrue
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+./acm_proc_article-sp.cls:628: Use of \dooptions doesn't match its definition.
+l.628 
+      
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+./acm_proc_article-sp.cls:629: Use of \p doesn't match its definition.
+l.629 \lineskip \p@
+                   
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+./acm_proc_article-sp.cls:630: Use of \p doesn't match its definition.
+l.630 \normallineskip \p@
+                         
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+
+./acm_proc_article-sp.cls:692: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.692 \normalsize
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+\@=\box26
+
+./acm_proc_article-sp.cls:696: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.696 \newbox\@a
+                cmtitlebox
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no x in font nullfont!
+\titlenotecount=\count88
+\tntoks=\toks17
+\tntokstwo=\toks18
+\tntoksthree=\toks19
+\tntoksfour=\toks20
+\tntoksfive=\toks21
+\catcount=\count89
+\copyrightnotice=\toks22
+\conf=\toks23
+\confinfo=\toks24
+
+./acm_proc_article-sp.cls:891: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.891 \newif\if@
+                qeded
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+./acm_proc_article-sp.cls:892: Use of \@ doesn't match its definition.
+l.892 \global\@q
+                ededfalse
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+./acm_proc_article-sp.cls:892: You can't use a prefix with `the letter e'.
+<to be read again> 
+                   e
+l.892 \global\@qe
+                 dedfalse
+I'll pretend you didn't say \long or \outer or \global or \protected.
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+\c@part=\count90
+\c@section=\count91
+\c@subsection=\count92
+\c@subsubsection=\count93
+\c@paragraph=\count94
+
+./acm_proc_article-sp.cls:989: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.989 \newif\if@
+                uchead
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+./acm_proc_article-sp.cls:990: Use of \@ doesn't match its definition.
+l.990 \@u
+         cheadfalse
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+
+./acm_proc_article-sp.cls:1041: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1041 \let\@pe
+               riod=.
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no . in font nullfont!
+Using 'Abbrev' bibliography style
+LaTeX Info: Redefining \cite on input line 1236.
+
+./acm_proc_article-sp.cls:1323: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1323 \let\@bi
+               blabel=\@biblabelnum  % Gerry's solution #1 - for Natbib
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no m in font nullfont!
+\bibindent=\dimen109
+\colcntr=\count95
+\saveb=\box27
+
+./acm_proc_article-sp.cls:1361: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1361 \newbox\saveb@
+                     x				% January 2008
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no x in font nullfont!
+./acm_proc_article-sp.cls:1435: Undefined control sequence.
+l.1435 \ps
+          @plain
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./acm_proc_article-sp.cls:1435: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1435 \ps@
+           plain
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+
+./acm_proc_article-sp.cls:1440: LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1440 \twocolumn
+                              % Double column.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+\copyrtyr=\toks25
+\acmcopyr=\toks26
+\boilerplate=\toks27
+\copyrightetc=\toks28
+
+
+./acm_proc_article-sp.cls:1476: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1476 \newif\if@
+                 ae@slides \@ae@slidesfalse
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no @ in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+./acm_proc_article-sp.cls:1476: Use of \@ doesn't match its definition.
+l.1476 \newif\if@ae@slides \@a
+                              e@slidesfalse
+If you say, e.g., `\def\a1{...}', then you must always
+put `1' after `\a', since control sequence names are
+made up of letters only. The macro here has not been
+followed by the required stuff, so I'm ignoring it.
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)
+LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/ae/t1aer.fd
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+))
+Runaway argument?
+@nnil ifx external@font @empty @latex@error {Font expandafter string ETC.
+./acm_proc_article-sp.cls:1481: File ended while scanning use of reserved@f.
+<inserted text> 
+                par 
+l.1481 \if
+          @ae@slides
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+)
+! Emergency stop.
+<*> acm_proc_article-sp.cls
+                           
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 464 strings out of 493488
+ 4546 string characters out of 3141326
+ 52179 words of memory out of 3000000
+ 3849 multiletter control sequences out of 15000+200000
+ 30959 words of font info for 30 fonts, out of 3000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 21i,4n,17p,164b,107s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
